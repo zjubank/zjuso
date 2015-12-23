@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">zjuso</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_ckc">ckcActivity</string>
+    <string name="title_activity_cspo">cspoActivity</string>
+    <string name="title_activity_urgs">urgsActivity</string>
+</resources>
