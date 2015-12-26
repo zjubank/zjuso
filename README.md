@@ -1,7 +1,7 @@
 # zjuso
 This is an Android project for the ZJU course of smartphone software development.
 
-## 1.0Version
+## 1.0 Version
 
 ### Feature
 Someone get the news and submit them to the database on bmob.cn. Then the app can get and display the news.
